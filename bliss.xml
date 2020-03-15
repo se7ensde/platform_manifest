@@ -6,7 +6,7 @@
           revision="q"
           review="review.blissroms.com" />
   
-    <remote name="pimps"
+    <remote name="se7ensde"
           fetch="https://github.com/pimpmaneaton"
           revision="q" />
 
