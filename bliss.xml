@@ -7,7 +7,7 @@
           review="review.blissroms.com" />
   
     <remote name="se7ensde"
-          fetch="https://github.com/pimpmaneaton"
+          fetch="https://github.com/se7ensde"
           revision="q" />
 
   <remote name="BlissRoms-Devices"
